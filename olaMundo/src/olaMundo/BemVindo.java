@@ -8,7 +8,7 @@ public class BemVindo {
 
 	public static void main(String[] args) {
 		System.out.println("Ola Git");
-		System.out.println("Nova Linha para teste ");
+		System.out.println("Nova Linha para teste");
 	}	
 
 }
